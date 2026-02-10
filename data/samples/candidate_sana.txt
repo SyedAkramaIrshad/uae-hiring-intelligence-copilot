@@ -1,0 +1,7 @@
+Sana Rahman
+
+Experience: 4 years as data analyst transitioning to ML.
+Skills: Python, SQL, Tableau, basic AWS, Streamlit.
+Education: Bachelor of Information Systems.
+
+Created KPI forecasting dashboards and automated reporting pipelines.

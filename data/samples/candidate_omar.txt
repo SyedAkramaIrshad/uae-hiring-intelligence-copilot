@@ -1,0 +1,7 @@
+Omar Ali
+
+Experience: 9 years software engineering.
+Skills: Java, Spring, AWS, Docker, Kubernetes, Microservices.
+Education: Bachelor of Computer Science.
+
+Led cloud migration program for retail workloads.

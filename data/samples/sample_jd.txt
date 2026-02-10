@@ -1,0 +1,19 @@
+Senior AI Engineer - UAE
+
+We are hiring a Senior AI Engineer to build production-grade LLM and ML systems.
+Required skills:
+- Python
+- FastAPI
+- SQL / Postgres
+- AWS
+- Docker
+- NLP and machine learning
+- CI/CD mindset
+
+Minimum 5 years of experience.
+Education: Bachelor's or Master's in Computer Science or related field.
+
+Nice to have:
+- Kubernetes
+- Streamlit
+- Cost optimization for LLM applications

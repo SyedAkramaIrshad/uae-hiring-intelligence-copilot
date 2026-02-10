@@ -1,0 +1,7 @@
+Ahmed Khan
+
+Experience: 7 years in backend and ML engineering.
+Skills: Python, FastAPI, SQL, Postgres, AWS, Docker, NLP, machine learning, Airflow.
+Education: Master of Science in Computer Engineering.
+
+Built a multilingual support assistant for GCC markets, reduced response time by 32%.
